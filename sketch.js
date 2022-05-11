@@ -2,7 +2,7 @@
 
 
 let serialPDM;
-let portName = 'COM3';
+let portName = 'COM4';
 let sensors;
 let ledOn = true;
 //let potentiometer;
